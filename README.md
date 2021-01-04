@@ -1,4 +1,6 @@
 # GoogleClassRoom-Automation
 
-## Supports:
+##DOSENT SUPPORT STANDARD GOOGLE LOGIN
+
+### Supports:
 Realsmart School Logins
